@@ -3,6 +3,8 @@
 <b>Subscribe to My Youtube Channel:</b><br>
 https://www.youtube.com/NerdAutodidata
 
+![Project Preview](./src/table.png)
+
 ### Link
 
 jsonplaceholder: https://jsonplaceholder.typicode.com/users
