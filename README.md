@@ -1,4 +1,4 @@
-# Create Table Reactjs component.
+# Create Table ReactJS component.
 
 <b>Subscribe to My Youtube Channel:</b><br>
 https://www.youtube.com/NerdAutodidata
